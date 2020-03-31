@@ -1,0 +1,14 @@
+github.com/dchest/siphash v1.2.1 h1:4cLinnzVJDKxTCl9B01807Yiy+W7ZzVHj/KIroQRvT4=
+github.com/dchest/siphash v1.2.1/go.mod h1:q+IRvb2gOSrUnYoPqHiyHXS0FOBBOdl6tONBlVnOnt4=
+github.com/dgryski/go-t1ha v0.0.0-20170624085304-d42c050643ba h1:rkU8gLZJmuE3BCbA73o5Kxikad3iqYQDREvMWc5jJnA=
+github.com/dgryski/go-t1ha v0.0.0-20170624085304-d42c050643ba/go.mod h1:RQoTsftNRY5WxBLtcSYsZDg8X9PGmNMyzTvppX6qAj4=
+github.com/dterei/gotsc v0.0.0-20160722215413-e78f872945c6 h1:iD62k/20LzNdTc2bmrOTQ4xgRbI0uJvOxTkEAmd20eQ=
+github.com/dterei/gotsc v0.0.0-20160722215413-e78f872945c6/go.mod h1:P4N3xGqi52atrdlMBXpsAGTqRnLgZ8uDhlkQ7HEYGgo=
+github.com/inspirent/go-spooky v0.0.0-20170302183822-6ffad0b37f46 h1:1eNJ/GBeE72TbqfrLMHmXT5bUcfv37SBkclxHPykYm0=
+github.com/inspirent/go-spooky v0.0.0-20170302183822-6ffad0b37f46/go.mod h1:SFot7Z3IOvU41Vc33yjF9MbOXtKMPnpwHz1cXpDvyT0=
+github.com/minio/highwayhash v1.0.0 h1:iMSDhgUILCr0TNm8LWlSjF8N0ZIj2qbO8WHp6Q/J2BA=
+github.com/minio/highwayhash v1.0.0/go.mod h1:xQboMTeM9nY9v/LlAOxFctujiv5+Aq2hR5dxBpaMbdc=
+github.com/zhenjl/cityhash v0.0.0-20131128155616-cdd6a94144ab h1:BWHvAOZz0pBILkGl/ebPQKZDrqbaWj/iN9RE8AvaTvg=
+github.com/zhenjl/cityhash v0.0.0-20131128155616-cdd6a94144ab/go.mod h1:P6L88wrqK99Njntah9SB7AyzFpUXsXYq06LkjixxQmY=
+golang.org/x/sys v0.0.0-20190130150945-aca44879d564 h1:o6ENHFwwr1TZ9CUPQcfo1HGvLP1OPsPOTB7xCIOPNmU=
+golang.org/x/sys v0.0.0-20190130150945-aca44879d564/go.mod h1:STP8DvDyc/dI5b8T5hshtkjS+E42TnysNCUPdjciGhY=
